@@ -1,3 +1,8 @@
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=mrsjuicyass&style=for-the-badge&color=006bed" alt = "Profile Views"/>
+
+</p>
+
 ## Hi there 👋
 
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://hit.yhype.me/github/profile?account_id=220769373)
