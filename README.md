@@ -1,22 +1,10 @@
+## Elizabeth Sanchez 🍑 mrsjuicyass 
+
+mrsjuicyass 🍑 Elizabeth Sanchez
+
+<a class="" href="/mrsjuicyass">mrsjuicyass</a>
+
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=mrsjuicyass&style=for-the-badge&color=006bed" alt = "Profile Views"/>
 
 </p>
-
-## Hi there 👋
-
-
-**mrsjuicyass/mrsjuicyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![](https://hit.yhype.me/github/profile?account_id=220769373)
